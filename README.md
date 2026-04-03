@@ -560,20 +560,12 @@ pytest tests/
 
 ---
 
-## 📜 License
-
-This project is licensed under the MIT License.
-
----
-
 ## 👤 Author
 
 **Md Sohanur Alam Siyam**
 
-- 📧 Email: [Your Email]
-- 🔗 LinkedIn: [Your LinkedIn]
-- 🐙 GitHub: [Your GitHub]
-
+- 📧 Email: s.a.siyam2000@gmail.com
+- 🔗 LinkedIn: www.linkedin.com/in/md-sohanur-alam-siyam-0b1b95306
 ---
 
 ## 🙏 Acknowledgments
@@ -590,7 +582,6 @@ This project is licensed under the MIT License.
 - 📖 [CrewAI Documentation](https://docs.crewai.com/)
 - 🔗 [SiliconFlow API Docs](https://siliconflow.cn/docs)
 - 🎥 [Demo Video](https://youtu.be/DyixZq1n0ys)
-- 💬 [Discord Community](#)
 
 ---
 
