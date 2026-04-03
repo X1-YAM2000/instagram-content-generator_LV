@@ -5,7 +5,7 @@
 ![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)
 ![CrewAI](https://img.shields.io/badge/CrewAI-Framework-orange.svg)
 ![SiliconFlow](https://img.shields.io/badge/SiliconFlow-API-green.svg)
-![License](https://img.shields.io/badge/License-MIT-yellow.svg)
+
 
 **[📺 Watch Demo](https://youtu.be/DyixZq1n0ys)** • **[📖 Documentation](#-overview)** • **[🚀 Quick Start](#-quick-start)**
 
