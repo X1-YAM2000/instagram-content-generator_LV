@@ -598,7 +598,3 @@ This project is licensed under the MIT License.
 ##### ⭐ If you found this helpful, please star the repository!
 
 **Made with ❤️ and AI**
-
-
-
-The markdown will render beautifully in Jupyter with all the formatting, tables, code blocks, and visual elements intact!
