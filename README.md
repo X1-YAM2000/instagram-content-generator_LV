@@ -1,6 +1,6 @@
 
 # 🤖 Instagram Content Generator
-### *Multi-Agent AI System for Automated Social Media Creation*
+### *Multi-Agent AI System for Automated Social Media Content Creation*
 
 ![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)
 ![CrewAI](https://img.shields.io/badge/CrewAI-Framework-orange.svg)
